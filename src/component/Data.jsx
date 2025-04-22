@@ -5,7 +5,7 @@ const projects = [
       title: "CareerWave - Job Portal",
       description: "A job portal built with Spring Boot, React, MongoDB, and Redux for seamless job searching and recruitment.",
       image: careerwave,
-      link: "https://careerwave-frontend.onrender.com/"
+      link: "https://careerwave-portal.netlify.app/"
     },
     {
       title: "Bio-biz",

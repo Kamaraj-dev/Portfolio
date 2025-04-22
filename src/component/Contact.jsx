@@ -6,7 +6,7 @@ const Contact = () => {
     const email = formData.get("email");
     const message = formData.get("message");
 
-    window.location.href = `mailto:kam9789@gmail.com?subject=Message from ${name}&body=Email: ${email}%0D%0A%0D%0A${message}`;
+    window.location.href = `mailto:kamaraj7887@gmail.com?subject=Message from ${name}&body=Email: ${email}%0D%0A%0D%0A${message}`;
   };
 
   return (
